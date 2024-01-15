@@ -1,0 +1,35 @@
+/* common shared styles */
+body {
+  font-family: 'Lato',
+  sans-serif;
+  font-family: 'Open Sans',
+  sans-serif;
+}p
+.text-rimary{
+  color: #FF5400;
+}
+/* nav realated style */
+nav {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+}
+.website-title{
+color: #131318;
+font-size: 36px;
+font-weight: 800;
+}
+nav > ul{
+  display: flex;
+  align-items: center;
+}
+nav li {
+  list-style: none;
+  margin-right: 44px;
+}
+nav {
+  text-decoration: none;
+  color: #424247;
+  font-size: 18px;
+  font-weight: 400;
+}
