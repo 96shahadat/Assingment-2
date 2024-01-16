@@ -115,3 +115,84 @@ nav a{
   margin-top: 24px;
   gap: 24px;
 }
+.last{
+  text-align: center;
+  margin-top: 100px;
+}
+.mave{
+  display: flex;
+  margin-top: 48px;
+  margin-left: 135px;
+  margin-right: 135px;
+  gap: 24px;
+}
+.make{
+ border-radius: 16px;
+ border: 1px solid rgba(251, 181, 99, 0.20);
+ background: rgba(251, 181, 99, 0.05);
+}
+.mite{
+  border-radius: 16px;
+  border: 1px solid rgba(41, 206, 246, 0.20);
+  background: rgba(41, 206, 246, 0.05);
+}
+.gret{
+  text-align: center;
+  margin-top: 24px;
+  margin-left: 433px;
+  margin-right: 433px;
+}
+.ins{
+  border-radius: 16px;
+  border: 1px solid rgba(233, 68, 68, 0.20);
+  background: rgba(233, 68, 68, 0.05);
+}
+.ty{
+  text-align: center;
+  margin-top: 100px;
+  margin-left: 398px;
+  margin-right: 398px;
+}
+.when{
+  text-align: center;
+  margin-top: 48px;
+  padding-top: 24px;
+}
+.op{
+  margin-right: 40px;
+}
+.but{
+  text-align: center;
+  margin-top: 48px;
+  border-radius: 8px;
+  background: #FF5400;
+  margin-left: 615px;
+  margin-right: 615px;
+  font-size: 20px;
+  color: #FFF;
+  width: 210px;
+  height: 52px;
+  padding-top: 14px;
+  padding-bottom: 13px;
+  padding-left: 22px;
+  padding-right: 22px;
+}
+.uuu{
+  display: flex;
+  margin-top: 100px;
+  margin-left: 135px;
+  margin-right: 135px;
+  gap: 35px;
+}
+.batun{
+  text-align: center;
+  margin-top: 32px;
+  color: #FFF;
+  border-radius: 8px;
+  background: #FF5400;
+  width: 174px;
+  height: 52px;
+  padding-top: 20px;
+  padding-left: 42px;
+  padding-right: 42px;
+}
