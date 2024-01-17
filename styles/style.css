@@ -243,8 +243,98 @@ nav a{
 }
 .just{
   border-radius: 16px;
-  border: 1px solid #FF5400;
+  /* border: 1px solid #FF5400; */
   width: 474px;
   height: 422px;
+
+}
+.colum{
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  padding-top: 100px;
+}
+
+.footer-colum{
+  text-align: center;
+  background: rgba(19, 19, 24, 0.05);
+  padding-top: 15px;
+}
+.under{
+  padding-bottom: 110px;
+  padding-top: 100px;
+}
+.rrr{
+  padding-top: 33px;
+}
+.www{
+  padding-top: 15px;
+}
+.text-light{
+  color: rgba(19, 19, 24, 0.70);
+  font-size: 16px;
+}
+
+
+/* Resposive mobile  */
+
+  
+@media screen and (max-width: 576px) {
+  
+  header nav{
+    padding: 50px;
+
+  }
+  /* .footer-colum{
+    padding: 20px;
+  } */
+  /* .heading img {
+    padding: 20px;
+  } */
+
+  /* nav ul{
+    flex-direction: column;
+  } */
+
+  /* .content{
+    flex-direction: column;
+  } */
+
+  /* .features{
+    flex-direction: column;
+  } */
+
+  /* .star{
+    flex-direction: column;
+  } */
+
+  /* .row{
+    flex-direction: column;
+  } */
+
+  /* .row-2{
+    flex-direction: column;
+  } */
+
+  /* .row-3{
+    flex-direction: column;
+  } */
+
+  /* .mav{
+    flex-direction: column;
+  } */
+
+  /* .uuu{
+    flex-direction: column;
+  } */
+
+  /* .erat{
+    flex-direction: column;
+  } */
+
+  /* .colum{
+    flex-direction: column;
+  } */
+
 
 }
